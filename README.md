@@ -1,5 +1,7 @@
 ## To-do list for daily tasks
 
+This project is a node application where you can add items to a list of todo's. It looks like it saves to the local storage because when I refresh the page the todos are still there. When the user clicks the todo, then it crosses the item out, indicating that the item is complete.
+
 ### Get started
 
 1. Fork the project
